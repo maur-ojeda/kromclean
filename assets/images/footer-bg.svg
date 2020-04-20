@@ -1,12 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920.193" height="1054.854" viewBox="0 0 1920.193 1054.854">
-  <defs>
-    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
-      <stop offset="0" stop-color="#361cc1"/>
-      <stop offset="1" stop-color="#2e82ef"/>
-    </linearGradient>
-  </defs>
-  <g id="Group_111" data-name="Group 111" transform="translate(0.13 -6328.591)">
-    <path id="Path_195" data-name="Path 195" d="M1367.063,374.808s-85.855-337.77-386.677-270.232-439.4,0-538.268-145.16-352-126.953-574.629-79.205S-434.941-141.322-553.13-300.409c0,.029.052,1054.854.052,1054.854H1367.047Z" transform="translate(553 6629)" opacity="0.11" fill="url(#linear-gradient)"/>
-    <path id="Path_194" data-name="Path 194" d="M1357.421,316.985S1271.128,25.525,971.495,90.593s-437.666,0-536.141-139.852S86.839-193.9-141.188-137.578s-380-116.481-421.437-220.589c.1,8-.016,1054.71-.016,1054.71H1357.406Z" transform="translate(562.61 6686.902)" fill="url(#linear-gradient)"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1921px" height="1055px" viewBox="0 0 1921 1055" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>footer-bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#1B2569" offset="0%"></stop>
+            <stop stop-color="#009ECF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#1B2569" offset="0%"></stop>
+            <stop stop-color="#009ECF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="footer-bg" fill-rule="nonzero">
+            <path d="M1920.193,675.217 C1920.193,675.217 1834.338,337.447 1533.516,404.985 C1232.694,472.523 1094.116,404.985 995.248,259.825 C896.38,114.665 643.248,132.872 420.619,180.62 C197.99,228.368 118.189,159.087 4.5519144e-15,0 C4.5519144e-15,0.029 0.052,1054.854 0.052,1054.854 L1920.193,1054.854 L1920.193,675.217 Z" id="Path_195" fill="url(#linearGradient-1)" opacity="0.11"></path>
+            <path d="M1920.161,675.296 C1920.161,675.296 1833.868,383.836 1534.235,448.904 C1234.602,513.972 1096.569,448.904 998.094,309.052 C899.619,169.2 649.579,164.411 421.552,220.733 C193.525,277.055 41.552,104.252 0.099,0.144 C0.215,8.144 0.099,1054.854 0.099,1054.854 L1920.161,1054.854 L1920.161,675.296 Z" id="Path_194" fill="url(#linearGradient-2)"></path>
+        </g>
+    </g>
 </svg>

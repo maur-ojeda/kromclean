@@ -271,7 +271,7 @@ p {
       height: 100%;
       border-style: solid;
       /* Spinner Color */
-      border-color: #361CC1 #361CC1 #E1E1E1;
+      border-color: #009DCF #192D70 #009DCF;
       border-radius: 50%;
       border-width: 6px; }
     .preloader .loader .ytp-spinner-left .ytp-spinner-circle {
@@ -754,7 +754,7 @@ p {
   color: #2E2E2E; }
 
 .sticky .navbar-nav .nav-item.active > a, .sticky .navbar-nav .nav-item:hover > a {
-  color: #361CC1; }
+  color: #0D629C; }
 
 /*===== HEADER HERO =====*/
 .header-hero {
@@ -1516,3 +1516,8 @@ p {
   display: none; }
   .back-to-top:hover {
     color: #fff; }
+
+
+
+    #myTab .nav-item a.nav-link.active{color:red;}
+    #myTab .nav-item a.nav-link{color:#333;}

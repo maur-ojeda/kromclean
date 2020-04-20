@@ -1,18 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920.183" height="1075.636" viewBox="0 0 1920.183 1075.636">
-  <defs>
-    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
-      <stop offset="0" stop-color="#361cc1"/>
-      <stop offset="1" stop-color="#2e82ef"/>
-    </linearGradient>
-    <clipPath id="clip-path">
-      <path id="Path_199" data-name="Path 199" d="M-533.031,278.516s95.269,204.193,401.21,161.147,419.656-32.1,544.188,96.892,343.977,107.54,572.909,67.066,360.19,68.158,401.79,142.968c.041-2.4-.074-1075.621-.074-1075.621l-1920,.011Z" transform="translate(533 329)" fill="url(#linear-gradient)"/>
-    </clipPath>
-  </defs>
-  <g id="Group_112" data-name="Group 112" transform="translate(0.089 0.042)">
-    <path id="Path_195" data-name="Path 195" d="M-533.089,278.364s100.43,239.944,401.206,191.477,442.068,9.577,537.63,114.941,352.091,94.329,580.987,52.374S1349.9,678.95,1387.094,746.594c.016.016-.373-1075.609-.373-1075.609l-1919.766-.027Z" transform="translate(533 329)" opacity="0.11" fill="url(#linear-gradient)"/>
-    <path id="Path_194" data-name="Path 194" d="M-533.031,278.516s95.269,204.193,401.21,161.147,419.656-32.1,544.188,96.892,343.977,107.54,572.909,67.066,360.19,68.158,401.79,142.968c.041-2.4-.074-1075.621-.074-1075.621l-1920,.011Z" transform="translate(533 329)" fill="url(#linear-gradient)"/>
-    <g id="Mask_Group_6" data-name="Mask Group 6" clip-path="url(#clip-path)">
-      <path id="Path_4" data-name="Path 4" d="M-496.368,321.285S-322.126-70.761,321.065,66.253s869.415,77.467,1056.161-463.982" transform="translate(522 366.416)" fill="none" stroke="#361cc1" stroke-width="128" opacity="0.14"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1921px" height="1076px" viewBox="0 0 1921 1076" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>banner-bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#1B2569" offset="0%"></stop>
+            <stop stop-color="#009ECF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#1B2569" offset="0%"></stop>
+            <stop stop-color="#009ECF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0.969,608.516 C0.969,608.516 96.238,812.709 402.179,769.663 C708.12,726.617 821.835,737.563 946.367,866.555 C1070.899,995.547 1290.344,974.095 1519.276,933.621 C1748.208,893.147 1879.466,1001.779 1921.07484,1076.589 C1921.107,1074.189 1920.992,0.968 1920.992,0.968 L0.992,0.979 L0.969,608.516 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="banner-bg" transform="translate(-1.000000, -1.000000)">
+            <path d="M1,608.406 C1,608.406 101.43,848.35 402.206,799.883 C702.982,751.416 844.274,809.46 939.836,914.824 C1035.398,1020.188 1291.927,1009.153 1520.823,967.198 C1749.719,925.243 1883.989,1008.992 1921.18348,1076.636 C1921.18348,1076.652 1920.81,1.027 1920.81,1.027 L1.044,1 L1,608.406 Z" id="Path_195" fill="url(#linearGradient-1)" fill-rule="nonzero" opacity="0.11"></path>
+            <path d="M1.058,608.558 C1.058,608.558 96.327,812.751 402.268,769.705 C708.209,726.659 821.924,737.605 946.456,866.597 C1070.988,995.589 1290.433,974.137 1519.365,933.663 C1748.297,893.189 1879.555,1001.821 1921.16384,1076.631 C1921.196,1074.231 1921.081,1.01 1921.081,1.01 L1.081,1.021 L1.058,608.558 Z" id="Path_194" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+            <g id="Mask_Group_6-Clipped" transform="translate(0.089000, 0.042000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="Path_199"></g>
+                <g id="Mask_Group_6" mask="url(#mask-4)" opacity="0.14" stroke="#361CC1" stroke-width="128">
+                    <g transform="translate(26.000000, -31.000000)" id="Path_4">
+                        <path d="M0.632,719.701 C0.632,719.701 174.874,327.655 818.065,464.669 C1461.256,601.683 1687.48,542.136 1874.226,0.687"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>
